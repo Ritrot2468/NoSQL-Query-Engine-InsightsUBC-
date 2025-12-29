@@ -15,7 +15,8 @@ The backend is written entirely from scratch in TypeScript and the frontend was 
 ## Features
 
 - Query courses by instructor, department, average grade, year, and more
-- Complex filter support using AND, OR, GT, LT, EQ, GROUP, and ORDER
+- Complex filter support using AND, OR, GT, LT, EQ, GROUP, and ORDER (see diagram)[CheckQuery checklist.pdf](https://github.com/user-attachments/files/24363482/CheckQuery.checklist.pdf)
+
 - Displays results in a responsive React-based UI
 - Parses and transforms dataset files in-memory with no database
 - Returns filtered and formatted results dynamically
